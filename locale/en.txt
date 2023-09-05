@@ -1,0 +1,30 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_70359473_64DC_1CA3_41CF_03F15B32A856.source = https://qubic360.com/
+
+## Media
+
+### Title
+panorama_754559AE_64EC_17A2_41D7_01641DAED2BE.label = brits
+panorama_746706DD_64E4_3DE6_41D1_2E0750BCB3F5.label = low
+panorama_77870464_64EC_7CA6_41D0_C2BE208C10C2.label = wow
+
+## Skin
+
+### Image
+Image_70252355_64DC_74E6_41AC_4954247C5EBA.url = skin/Image_70252355_64DC_74E6_41AC_4954247C5EBA_en.jpg
+
+### Multiline Text
+HTMLText_70ADA15C_64E4_34E6_41D1_E45C4D0AD37B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">HIGH RESOLUTION PHOTO</SPAN></DIV></div>
+HTMLText_70ACD15A_64E4_34E2_41C9_0EBBE5C1417A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">STANDARD PHOTO</SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Perbandingan Foto Standard dan High Resolution yang dilakukan oleh Qubic360.com dalam hal kamera yang digunakan dan juga upgrading color dalam setiap spot.
+
+### Title
+tour.name = Comparing Photo Qubic 360
